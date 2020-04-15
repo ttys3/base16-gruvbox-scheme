@@ -1,0 +1,18 @@
+scheme: "Gruvbox dark, jb fork"
+author: "荒野無燈(https://ttys3.net), Dawid Kurek (dawikur@gmail.com), Vincent Parizet (vincent.parizet@hotmail.fr), morhetz (https://github.com/Vincent-P/gruvbox-intellij-theme)"
+base00: "262626" # ----
+base01: "3a3a3a" # ---
+base02: "4e4e4e" # --
+base03: "8a8a8a" # -
+base04: "949494" # +
+base05: "b09d79" # ++
+base06: "b09d79" # +++
+base07: "ebdbb2" # ++++
+base08: "d75f5f" # var
+base09: "6fafbd" # const
+base0A: "afbf7e" # pkg class name
+base0B: "afaf00" # string
+base0C: "d3869b" # num, punc
+base0D: "83a598" # func
+base0E: "c7773e" # kwd
+base0F: "d79921" # brown
